@@ -11,7 +11,7 @@ The network implements automated smart home rules using a **Wireless Access Poin
 Here is the visual layout of the completed network topology:
 
 <!-- ADD YOUR TOPOLOGY SCREENSHOT HERE -->
-![Network Topology](path/to/your/topology-screenshot.png)
+![Network Topology](images/topology-screenshot.png)
 
 ---
 
@@ -59,7 +59,7 @@ Using the Registration Server dashboard interface, the following automated condi
 
 ### IoT Server Dashboard Status:
 <!-- ADD YOUR TABLET IOT DASHBOARD SCREENSHOT HERE -->
-![IoT Dashboard](path/to/your/dashboard-screenshot.png)
+![IoT Dashboard](images/dashboard-screenshot.png)
 
 > **Note on Behavior:** Packet Tracer applies a built-in 5-second cooldown timer to the Motion Detector. When motion triggers, the light illuminates instantly and stays on for 5 seconds until the physical sensor resets back to an 'Off' state.
 
